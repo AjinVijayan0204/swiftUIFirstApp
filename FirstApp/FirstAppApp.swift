@@ -13,7 +13,8 @@ struct FirstAppApp: App {
         WindowGroup {
 //            ContentView()
 //            CircleImage()
-            LearningProperty()
+//            LearningProperty()
+            StackingViews()
         }
     }
 }

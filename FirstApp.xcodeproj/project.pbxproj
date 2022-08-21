@@ -14,6 +14,7 @@
 		87440C3F28B104AA00B3B827 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C3E28B104AA00B3B827 /* CircleImage.swift */; };
 		87440C4128B245F400B3B827 /* LearningProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4028B245F400B3B827 /* LearningProperty.swift */; };
 		87440C4328B2592B00B3B827 /* PropertyEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4228B2592B00B3B827 /* PropertyEnvironment.swift */; };
+		87440C4528B267D700B3B827 /* StackingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4428B267D700B3B827 /* StackingViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		87440C3E28B104AA00B3B827 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		87440C4028B245F400B3B827 /* LearningProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningProperty.swift; sourceTree = "<group>"; };
 		87440C4228B2592B00B3B827 /* PropertyEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyEnvironment.swift; sourceTree = "<group>"; };
+		87440C4428B267D700B3B827 /* StackingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackingViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				87440C3E28B104AA00B3B827 /* CircleImage.swift */,
 				87440C4028B245F400B3B827 /* LearningProperty.swift */,
 				87440C4228B2592B00B3B827 /* PropertyEnvironment.swift */,
+				87440C4428B267D700B3B827 /* StackingViews.swift */,
 			);
 			path = FirstApp;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				87440C3328B0F43200B3B827 /* ContentView.swift in Sources */,
 				87440C3128B0F43200B3B827 /* FirstAppApp.swift in Sources */,
+				87440C4528B267D700B3B827 /* StackingViews.swift in Sources */,
 				87440C4328B2592B00B3B827 /* PropertyEnvironment.swift in Sources */,
 				87440C4128B245F400B3B827 /* LearningProperty.swift in Sources */,
 				87440C3F28B104AA00B3B827 /* CircleImage.swift in Sources */,
