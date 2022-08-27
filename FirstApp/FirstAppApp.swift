@@ -15,7 +15,9 @@ struct FirstAppApp: App {
 //            CircleImage()
 //            LearningProperty()
 //            StackingViews()
-            WidgetsExample()
+//            WidgetsExample()
+//            AlertDemo(showAlert: false)
+            SecondView()
         }
     }
 }
