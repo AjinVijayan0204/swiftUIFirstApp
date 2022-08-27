@@ -14,7 +14,8 @@ struct FirstAppApp: App {
 //            ContentView()
 //            CircleImage()
 //            LearningProperty()
-            StackingViews()
+//            StackingViews()
+            WidgetsExample()
         }
     }
 }
