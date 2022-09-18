@@ -18,6 +18,10 @@
 		87440C4728B2941100B3B827 /* WidgetsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4628B2941100B3B827 /* WidgetsExample.swift */; };
 		87440C4928BA11E100B3B827 /* AlertDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4828BA11E100B3B827 /* AlertDemo.swift */; };
 		87440C4B28BA342E00B3B827 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4A28BA342E00B3B827 /* SecondView.swift */; };
+		87440C4D28BA7BFE00B3B827 /* ListDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C4C28BA7BFE00B3B827 /* ListDemo.swift */; };
+		87440C9228D7542700B3B827 /* NavDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C9128D7542700B3B827 /* NavDemo.swift */; };
+		87440C9428D7599800B3B827 /* Countries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C9328D7599800B3B827 /* Countries.swift */; };
+		87440C9628D75AFF00B3B827 /* SecondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87440C9528D75AFF00B3B827 /* SecondScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +37,10 @@
 		87440C4628B2941100B3B827 /* WidgetsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetsExample.swift; sourceTree = "<group>"; };
 		87440C4828BA11E100B3B827 /* AlertDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertDemo.swift; sourceTree = "<group>"; };
 		87440C4A28BA342E00B3B827 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		87440C4C28BA7BFE00B3B827 /* ListDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDemo.swift; sourceTree = "<group>"; };
+		87440C9128D7542700B3B827 /* NavDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavDemo.swift; sourceTree = "<group>"; };
+		87440C9328D7599800B3B827 /* Countries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Countries.swift; sourceTree = "<group>"; };
+		87440C9528D75AFF00B3B827 /* SecondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +84,10 @@
 				87440C4628B2941100B3B827 /* WidgetsExample.swift */,
 				87440C4828BA11E100B3B827 /* AlertDemo.swift */,
 				87440C4A28BA342E00B3B827 /* SecondView.swift */,
+				87440C4C28BA7BFE00B3B827 /* ListDemo.swift */,
+				87440C9128D7542700B3B827 /* NavDemo.swift */,
+				87440C9328D7599800B3B827 /* Countries.swift */,
+				87440C9528D75AFF00B3B827 /* SecondScreen.swift */,
 			);
 			path = FirstApp;
 			sourceTree = "<group>";
@@ -161,11 +173,15 @@
 				87440C3328B0F43200B3B827 /* ContentView.swift in Sources */,
 				87440C3128B0F43200B3B827 /* FirstAppApp.swift in Sources */,
 				87440C4528B267D700B3B827 /* StackingViews.swift in Sources */,
+				87440C9628D75AFF00B3B827 /* SecondScreen.swift in Sources */,
 				87440C4B28BA342E00B3B827 /* SecondView.swift in Sources */,
+				87440C4D28BA7BFE00B3B827 /* ListDemo.swift in Sources */,
 				87440C4328B2592B00B3B827 /* PropertyEnvironment.swift in Sources */,
 				87440C4728B2941100B3B827 /* WidgetsExample.swift in Sources */,
 				87440C4128B245F400B3B827 /* LearningProperty.swift in Sources */,
+				87440C9228D7542700B3B827 /* NavDemo.swift in Sources */,
 				87440C3F28B104AA00B3B827 /* CircleImage.swift in Sources */,
+				87440C9428D7599800B3B827 /* Countries.swift in Sources */,
 				87440C4928BA11E100B3B827 /* AlertDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

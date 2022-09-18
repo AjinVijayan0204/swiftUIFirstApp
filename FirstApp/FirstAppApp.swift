@@ -17,7 +17,9 @@ struct FirstAppApp: App {
 //            StackingViews()
 //            WidgetsExample()
 //            AlertDemo(showAlert: false)
-            SecondView()
+//            SecondView()
+//            ListDemo()
+            NavDemo()
         }
     }
 }
